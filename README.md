@@ -3,7 +3,7 @@ Clumsy Bird
 
 A MelonJS made "Flappy Bird" clone.
 
-![](http://i.imgur.com/Slbvt65.png)
+![image](https://user-images.githubusercontent.com/119916323/227510453-744c4b68-7244-481d-ab1f-70e76c4d4153.png)
 
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
@@ -30,8 +30,4 @@ Open your browser at `http://localhost:8001/`
 
 See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/master/CUSTOMIZING.md)
 
-## Some nice games made with this project
 
-[Checkout here](https://github.com/ellisonleao/clumsy-bird/wiki/Games-using-clumsy-bird-code)
-
-Some thoughts about this code you can find on [my blog post](https://medium.com/@ellisonleao/clumsy-bird-an-open-source-flappy-bird-clone-cf615724730f)
