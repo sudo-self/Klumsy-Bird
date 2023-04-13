@@ -1,5 +1,5 @@
 
-# A MelonJS made "Flappy Bird" clone. Springs.JesseJesse.com 
+# Springs.JesseJesse.com 
 
 ![image](https://user-images.githubusercontent.com/119916323/227510453-744c4b68-7244-481d-ab1f-70e76c4d4153.png)
 
